@@ -1,4 +1,5 @@
-
+Developed by : ROHIT JAIN D  
+Reference number : 22005894
 ### AIM: To implement 8 to 3 Encoder and  3to8 Decoder using verilog and validate its outputs
 ### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
 ### SOFTWARE REQUIRED:   Quartus prime
