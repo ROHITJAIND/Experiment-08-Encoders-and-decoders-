@@ -96,35 +96,25 @@ endmodule
 
 
 ### RTL LOGIC  
-- ENCODER:
+- ENCODER:  
 
+![rtl](https://user-images.githubusercontent.com/118707073/215453507-0fb6c730-852f-4c2b-9db5-245cac55560b.png)  
+- DECODER:  
 
-
-- DECODER:
-
+![log](https://user-images.githubusercontent.com/118707073/215453638-f3003599-ddba-401a-8920-1c17a205e91a.png)  
 
 ### TIMING DIGRAMS  
+- ENCODER:  
+![tym](https://user-images.githubusercontent.com/118707073/215453684-9ef72f65-56ae-4b1e-8703-43a59a895afa.png)  
 
-- ENCODER:
+- DECODER:  
+![diag](https://user-images.githubusercontent.com/118707073/215453742-ef3f6b9d-ec5e-4991-bec3-cbada11b3bc9.png)  
+### TRUTH TABLE   
+- ENCODER:  
 
+![en](https://user-images.githubusercontent.com/118707073/215453711-44d76eeb-a1e9-4b96-92a4-8fd980d1abd0.png)  
+- DECODER:  
+![de](https://user-images.githubusercontent.com/118707073/215453763-71b375d3-5dfa-4815-9fe3-f226f7bfe440.png)  
 
-
-- DECODER:
-
-
-
-
-### TRUTH TABLE 
-
-
-- ENCODER:
-
-
-
-- DECODER:
-
-
-
-
-### RESULTS :
+### RESULTS :  
 Thus the program to desing encoder and decoder is done.
